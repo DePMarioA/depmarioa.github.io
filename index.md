@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DREAM Project Site
+image: https://depmarioa.github.io/images/photoIDProf.jfif
 ---
 
 * TOC
@@ -13,7 +14,8 @@ I'm Mario Alvarado and I'm currently a Master's Student in Computer Science. I h
 **Contact information:** 
 malvar72@depaul.edu
 
-![avatar] (https://depmarioa.github.io/images/photoIDProf.jfif )## About My Advisor
+## About My Advisor
+![]({{page.image | relative_url}})
 **Thiru Ramaraj**
 
 Thiru Ramaraj is an Assistant Professor at the School of Computing at DePaul University. Professor Ramaraj's area of focus is mainly on Computational Biology and Applied Bioinformatics. Beforehand, he worked as a Bioinformatics Research Scientist at the National Center for Genome Resources.
