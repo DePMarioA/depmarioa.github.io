@@ -16,6 +16,7 @@ malvar72@depaul.edu
 
 ## About My Advisor
 ![]({{page.image | relative_url}})
+
 **Thiru Ramaraj**
 
 Thiru Ramaraj is an Assistant Professor at the School of Computing at DePaul University. Professor Ramaraj's area of focus is mainly on Computational Biology and Applied Bioinformatics. Beforehand, he worked as a Bioinformatics Research Scientist at the National Center for Genome Resources.
