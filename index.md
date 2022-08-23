@@ -10,7 +10,7 @@ image: https://depmarioa.github.io/images/bstockimg.jpg
 ## About Me
 ![Me]({{https://depmarioa.github.io}}/images/myprof2.jpg)
 
-I'm Mario Alvarado and I'm currently a Master's Student in Computer Science. I have a B.S. in Chemistry and was an inorganic Chemist for the government before I made the switch to Computer Science. Before that, I was in a Biochemistry research lab at my alma mater. I helped developed a method to determine the best matrix for MALDI to use on a brain section of the NPC2 mouse for the spatial mapping of lipids produced from the brain. I also started a neural cell line of these NPC2 mice for neural protein production. I eventually hope to combine my fields in chemistry, biochemistry, and computer science together. I now study at DePaul University and I am planning to graduate in the fall of 2022.
+I'm Mario Alvarado and I'm currently a Master's Student in Computer Science. I have a B.S. in Chemistry and was an inorganic Chemist for the government before I made the switch to Computer Science. Before that, I was in a Biochemistry research lab at my alma mater. I helped develop a method to determine the best matrix for MALDI to use on a brain section of the NPC2 mouse for the spatial mapping of lipids produced from the brain. I also started a neural cell line of these NPC2 mice for neural protein production. I eventually hope to combine my fields in chemistry, biochemistry, and computer science together. I now study at DePaul University and I am planning to graduate in the fall of 2022.
 
  
 [**Email: malvar72@depaul.edu**](mailto:malvar72@depaul.edu)
