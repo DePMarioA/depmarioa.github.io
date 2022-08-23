@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DREAM Project Site
-image: https://depmarioa.github.io/images/photoIDProf.jfif
+image: https://depmarioa.github.io/images/bstockimg.jpg
 ---
 
 * TOC
@@ -26,6 +26,7 @@ Thiru Ramaraj is an Assistant Professor at the School of Computing at DePaul Uni
 
 ## About My Project
 ![]({{page.image|relative_url}})
+
 My Project is mainly focusing on image processing. In collaboration with a group from Rush University, we plan to automate the labeling process of key features in brain scans. There are thousands of brain scans, and the group must manually find and label them. The group will provide us with a sample data set of the brain scans (both labeled and unlabeled) and will use the dataset as the foundation for the automated process. 
 
 [My Final Report](files/finalreport.pdf)
