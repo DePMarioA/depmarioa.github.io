@@ -15,7 +15,7 @@ I'm Mario Alvarado and I'm currently a Master's Student in Computer Science. I h
 malvar72@depaul.edu
 
 ## About My Advisor
-![]({{https://depmarioa.github.io}}/images/photoIDProf.png "professor")
+![Professor]({{https://depmarioa.github.io}}/images/photoIDProf.png)
 
 **Thiru Ramaraj**
 
